@@ -41,5 +41,5 @@ Trabalho desenvolvido pela equipe:
 * Eduardo Tonon
 * Daniel Miranda
 * Ester
-* Gabriel Xavier
+* Gabriel Charles 
 * Isabella Cardoso
